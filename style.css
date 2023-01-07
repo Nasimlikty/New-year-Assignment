@@ -1,0 +1,179 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-size: 50px;
+}
+
+.flex {
+    display: flex;
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1600px;
+    height: 809px;
+    justify-content: end;
+}
+
+.flex-1 {
+    display: flex;
+    width: 1600px;
+    height: 809px;
+    margin-top: 130px;
+    justify-content: space-around;
+}
+
+.first {
+    margin-top: 216px;
+    font-weight: 700;
+    text-align: right;
+    width: 525px;
+    height: 228px;
+    display: block;
+    justify-content: end;
+    margin-right: 230px;
+}
+.first-1{
+    margin-bottom: 40px;
+}
+
+.first-2 {
+    margin-top: 216px;
+    font-weight: 700;
+    width: 525px;
+    height: 228px;
+    margin-right: 230px;
+}
+
+.flex-img {
+    width: 569px;
+    height: 723.3px;
+}
+
+.primery-text {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.button-2 {
+    text-decoration: none;
+    background-color: white;
+    color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-left: 64px;
+    width: 160px;
+    height: 64px;
+}
+
+#services {
+    margin: 70px;
+    display: flex;
+    display: wrap;
+
+
+}
+
+#services .box {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+
+}
+
+.h-primarys {
+    font-size: 40px;
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.h-secondary {
+    text-align: center;
+}
+
+#services .box img {
+    height: 100px;
+    display: block;
+    margin: auto;
+
+}
+
+.cian-color {
+    color: aqua;
+}
+
+.gradient-section {
+    background-image: url(images/gradient2.png);
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('images/watch.png');
+    border-radius: 8px;
+    width: 1140px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.gradient-section p {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-left: 64px;
+    padding-top: 60px;
+}
+
+.footer-section {
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+    margin-top: 80px;
+    display: flex;
+
+}
+
+.foot-1 {
+    color: white;
+    float: left;
+    width: 50%;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+
+.foot-2 {
+    color: white;
+    float: right;
+    width: 50%;
+    margin-right: 150px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.inputs {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+
+.button-3 {
+    text-decoration: none;
+    color: orange;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
